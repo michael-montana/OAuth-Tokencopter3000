@@ -78,6 +78,9 @@ OAuth Tokencopter 3000 is a community project. I encourage you to pitch in! If y
 
 OAuth Tokencopter 3000 is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
+## Disclaimer
+This project uses **Microsoft Authentication** to generate tokens. All rights to **Microsoft Authentication** services and APIs belong to Microsoft. This project does not claim ownership of any third-party services or APIs used.
+
 ## 🎉 Final Words
 
 No more token troubles! With OAuth Tokencopter 3000, issuing Microsoft Identity Tokens is as easy as pie. Enjoy your worry-free token issuing experience!
